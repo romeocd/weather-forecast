@@ -1,4 +1,4 @@
-var apiKey = e0bb13e8184979bbdc6dff7806b57d67;
+var apiKey = "e0bb13e8184979bbdc6dff7806b57d67";
 var cityCurrentEl = document.querySelector("#city-current");
 var searchForm = document.querySelector("#search-form");
 var clearBtn = document.querySelector("#clear-history-button");
